@@ -1,9 +1,9 @@
 # telegram-reporting-bot
 <p align="center"><img src="logos.png" width="250px" height="250px" alt="tg log"></p>
 
-<h2 align="center">Telegram https://t.me/reptelg</h2>
+<h2 align="center">Telegram https://telegram.me/reptelg</h2>
 <h1 align="center">TELEGRAM REPORT BOT</h1>
-<h2 align="center">Join our telegram here > <a href="https://t.me/reptelg"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a></h2>
+<h2 align="center">Join our telegram here > <a href="https://telegram.me/reptelg"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a></h2>
 
 ## What is a Bot/Tool for Reporting❓
    Definition of a Bot/Tool:.
@@ -13,7 +13,7 @@
 
 
 # How can i get this Bot/Tool or to report an account ❓
-  * Join our telegram here > <a href="https://t.me/reptelg"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+  * Join our telegram here > <a href="https://telegram.me/reptelg"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
   * Check all the proof.
   * Below each video you will see our contact starting with @ contact us on that username.
 </pre>
